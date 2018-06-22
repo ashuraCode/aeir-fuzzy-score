@@ -1,0 +1,2 @@
+Script written in R which was used to perform research included in the article
+"Using Gaussian membership functions for improving the reliability and robustness of students’ evaluation systems". It is available to read on-line at https://www.sciencedirect.com/science/article/pii/S0957417410014119
